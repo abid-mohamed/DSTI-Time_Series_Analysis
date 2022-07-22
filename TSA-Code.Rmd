@@ -4,6 +4,7 @@ output:
   pdf_document: 
     keep_tex: yes
 date: '2022-06-22'
+author: Mohamed ABID
 ---
 
 # I. Preparation of data
